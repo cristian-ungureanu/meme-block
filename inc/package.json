@@ -18,5 +18,10 @@
     "cross-env": "^7.0.2",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@wordpress/api-fetch": "^3.18.0",
+    "axios": "^0.20.0",
+    "lodash": "^4.17.20"
   }
 }

@@ -1,0 +1,42 @@
+
+/**
+ * Note that these styles are loaded *after* common styles, so that
+ * editor-specific styles using the same selectors will take precedence.
+ */
+.meme-block-wrapper {
+    position: relative;
+}
+
+.meme-block-image {
+    width: 100%;
+}
+
+.meme-block-text-wrapper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.editor-styles-wrapper .meme-block-wrapper h3 {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+.meme-block-top-text{
+    justify-content: flex-start;
+}
+
+.meme-block-bottom-text{
+    justify-content: flex-end;
+}
