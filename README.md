@@ -16,3 +16,10 @@ WordPress Gutenberg block plugin that adds a way to easily add your favorite mem
 1. Install the plugin via the plugin installer, either by searching for it or uploading a .ZIP file.
 1. Activate the plugin.
 1. Use the Meme Block for WordPress!
+
+## 3rd Party services
+
+Meme block is relying on Imgflip.com services for creating and sharing images.
+All the backgrounds for the memes are hosted on Imgflip and are part its content.  
+Service link: https://imgflip.com/  
+Terms of use: https://imgflip.com/terms

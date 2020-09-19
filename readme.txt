@@ -16,7 +16,7 @@ WordPress Gutenberg block plugin that adds a way to easily add your favorite mem
 
 == 3rd Party services ==
 
-Meme block is relying on Imgflip.com sevices for creating and sharing images.
+Meme block is relying on Imgflip.com services for creating and sharing images.
 All the backgrounds for the memes are hosted on Imgflip and are part its content.
 Service link: https://imgflip.com/
 Terms of use: https://imgflip.com/terms
