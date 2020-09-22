@@ -1,4 +1,5 @@
-const { RichText, AlignmentToolbar, BlockControls, InspectorControls } = wp.editor;
+const { AlignmentToolbar } = wp.editor;
+const { RichText, BlockControls, InspectorControls } = wp.blockEditor;
 const { PanelBody, SelectControl, RangeControl, ColorPicker } = wp.components;
 const { __ } = wp.i18n;
 const { useSelect } = wp.data;

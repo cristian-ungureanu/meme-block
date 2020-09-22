@@ -1,5 +1,4 @@
-const { RichText } = wp.editor;
-const { useSelect } = wp.data;
+const { RichText } = wp.blockEditor;
 
 const Save = ( props ) => {
 
@@ -49,7 +48,7 @@ const Save = ( props ) => {
 		'font-size:' + topTextFsTablet + 'px' +
 		'}' +
 		'.meme-block-wrapper .meme-block-text-wrapper.bottom-text h3{' +
-		'font-size:' + topTextFsTablet + 'px' +
+		'font-size:' + bottomTextFsTablet + 'px' +
 		'}' +
 		'}';
 
